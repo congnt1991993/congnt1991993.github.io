@@ -21,8 +21,8 @@ body::-webkit-scrollbar {
 }
 
 .font-estetik {
-  font-family: "Times New Roman", Serif !important;
-  /* font-family: boheme; */
+  /* font-family: "Times New Roman", Serif !important; */
+  font-family: boheme;
   /* font-family: 'Boheme Floral', sans-serif; */
   color: #ffffff !important;
 }
