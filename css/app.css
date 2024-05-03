@@ -27,6 +27,11 @@ body::-webkit-scrollbar {
   color: #ffffff !important;
 }
 
+.font-title {
+  font-family: boheme;
+  color: pink;
+}
+
 .font-content {
   font-family: "Times New Roman", Serif !important;
   color: pink !important;
