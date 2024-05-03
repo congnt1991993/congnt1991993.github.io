@@ -32,6 +32,11 @@ body::-webkit-scrollbar {
   color: pink;
 }
 
+.font-head {
+  font-family: 'Times New Roman', Times, serif !important;
+  color: #ffffff !important;
+}
+
 .font-content {
   font-family: "Times New Roman",'Times New Roman', Times, serif !important;
   color: pink !important;
