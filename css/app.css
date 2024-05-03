@@ -1,7 +1,7 @@
-@font-face {
+/* @font-face {
   font-family: boheme;
   src: url(https://fonts.cdnfonts.com/css/boheme-floral);
-}
+} */
 
 html {
   scroll-behavior: smooth;
@@ -22,7 +22,8 @@ body::-webkit-scrollbar {
 
 .font-estetik {
   /* font-family: "Times New Roman", Serif !important; */
-  font-family: boheme;
+  /* font-family: boheme; */
+  font-family: 'Boheme Floral', sans-serif;
   color: #ffffff !important;
 }
 
