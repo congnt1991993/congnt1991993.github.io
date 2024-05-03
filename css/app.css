@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Times New Roman", Times, serif;
   padding: 0 !important;
   overflow-y: scroll;
   overflow-x: hidden;
@@ -16,12 +16,12 @@ body::-webkit-scrollbar {
 }
 
 .font-estetik {
-  font-family: "Arial", cursive !important;
+  font-family: "Times New Roman", cursive !important;
   color: #ffffff !important;
 }
 
 .font-content {
-  font-family: "Arial", cursive !important;
+  font-family: "Times New Roman", cursive !important;
   color: pink !important;
 }
 
