@@ -33,7 +33,7 @@ body::-webkit-scrollbar {
 }
 
 .font-content {
-  font-family: "Times New Roman", Serif !important;
+  font-family: "Times New Roman",'Times New Roman', Times, serif !important;
   color: pink !important;
 }
 
