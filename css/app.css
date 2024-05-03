@@ -16,12 +16,12 @@ body::-webkit-scrollbar {
 }
 
 .font-estetik {
-  font-family: "Times New Roman", cursive !important;
+  font-family: "Times New Roman", Serif !important;
   color: #ffffff !important;
 }
 
 .font-content {
-  font-family: "Times New Roman", cursive !important;
+  font-family: "Times New Roman", Serif !important;
   color: pink !important;
 }
 
