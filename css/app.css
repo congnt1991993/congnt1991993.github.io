@@ -47,8 +47,8 @@ body::-webkit-scrollbar {
 }
 
 .cropper {
-  width: 30rem;
-  height: 30rem;
+  width: 25rem;
+  height: 25rem;
   position: relative;
   overflow: hidden;
   border-radius: 50%;
