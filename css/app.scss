@@ -22,11 +22,13 @@ body::-webkit-scrollbar {
 
 .font-content {
     font-family: "Arial", cursive !important;
-    color: pink !important;
+    // color: pink !important;
+    color: #004A78 !important;
 }
 
 .font-color {
-    color: pink;
+    // color: pink;
+    color: #004A78;
 }
 
 .cropper {
@@ -59,7 +61,8 @@ body::-webkit-scrollbar {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: pink;
+    // background-color: pink;
+    background-color: #004A78;
     z-index: 1056 !important;
 }
 
